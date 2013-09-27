@@ -1,4 +1,8 @@
 .Rproj.user
 .Rhistory
 .RData
+Coex.Rproj
 data*.txt
+data*.csv
+temp*.R
+/figures
